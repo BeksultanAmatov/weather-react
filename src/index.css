@@ -4,8 +4,6 @@
   padding: 0;
 }
 
-
-
 body {
   margin: 0;
   font-family: 'Outfit', BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -74,13 +72,6 @@ h1 {
 .app .top {
   width: 100%;
   margin: 1rem auto;
-}
-
-.app .description {
-  position: relative;
-  right: -90%;
-  transform-origin: 0 0;
-  transform: rotate(270deg);
 }
 
 .app .bottom {
